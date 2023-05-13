@@ -118,8 +118,7 @@ a:focus {
 }
 
 .form-control {
-    background: #C3BEAC;
-    border-color: #545454;
+    background-color: #fff !important;
 }
 
 .form-control:focus {
